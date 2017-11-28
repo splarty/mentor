@@ -14,12 +14,12 @@
 <a id='MENTOR'></a>
 ## Classroom Mentor
 
-
-
-
 - When you post a question or comment, you can expect a reply within 24 hours (i.e. communication isn't *Live*).
 
 - So any technical questions that you have will have to be posed in a way that I can answer them directly (i.e. if I need clarification on any parts of your question then they will be difficult to answer, and will lead to a frustrating time lag for you).
+
+  - Include a link to the quiz, where relevant.
+  - Include any code, where relevant.
 
 - Classroom mentors do not review projects before submission (We can clarify questions that you have about the requirements or review comments but we can't pre-review projects). Once you are happy that you have met the requirements (laid out in the project Rubric), then you are ready to submit your project.
 
