@@ -30,7 +30,7 @@
 
     ![alt text][image_0]
     
-- To move to a new line, in the chat window, use <kbd>Shift</kbd> + <kbd>Enter</kbd> at the same time.
+- To move to a new line, in the chat window, press <kbd>Shift</kbd> + <kbd>Enter</kbd> at the same time.
 
 - **Note**: Any spaces on the lines with _`'backticks'`_ will produce very odd formatting.
 
