@@ -26,11 +26,11 @@
 <a id='SNIPPETS'></a>
 ## Posting Code in the Chat Window:
 
-- On **separate** lines, **before** and **after** your code, you put three **backticks**  (which are beside 1 on a QWERTY keyboard  <kbd>  ` </kbd> <kbd>  1 </kbd> </kbd> <kbd>  2 </kbd>  ) - which looks like (*See the footnote for other keyboard layouts* <sup>[1](#myfootnote1)</sup>):
+- On **separate** lines, **before** and **after** your code, you put three **backticks**  (which are beside 1 on a QWERTY keyboard  <kbd>  ` </kbd> <kbd>  1 </kbd> </kbd> <kbd>  2 </kbd>  ) - which looks like (*See the footnote for other keyboard layouts*<sup>[1](#myfootnote1)</sup>):
 
     ![alt text][image_0]
     
-- To move to a new line, in the chat window, use `Shift + Enter` at the same time.
+- To move to a new line, in the chat window, use <kbd>Shift</kbd> + <kbd>Enter</kbd> at the same time.
 
 - **Note**: Any spaces on the lines with _`'backticks'`_ will produce very odd formatting.
 
