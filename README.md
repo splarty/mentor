@@ -16,7 +16,7 @@
 
 - When you post a question or comment, you can expect a reply within 24 hours (i.e. communication isn't *Live*).
 
-- So any technical questions that you have will have to be posed in a way that I can answer them directly (i.e. if I need clarification on any parts of your question then they will be difficult to answer, and will lead to a frustrating time lag for you).
+- So any technical questions that you have will have to be posed in a way that is clear, so that I can answer them directly (i.e. if I need clarification on any parts of your question then they will be difficult to answer, and will lead to a frustrating time lag for you).
 
   - Include a link to the quiz, where relevant.
   - Include any code, where relevant.
@@ -26,7 +26,7 @@
 <a id='SNIPPETS'></a>
 ## Posting Code in the Chat Window:
 
-- On **separate** lines, **before** and **after** your code, you put three **backticks**  (which are beside 1 on a QWERTY keyboard  <kbd>  ` </kbd> <kbd>  1 </kbd> </kbd> <kbd>  2 </kbd>  ) - which look like:<sup>[1](#myfootnote1)</sup>
+- On **separate** lines, **before** and **after** your code, you put three **backticks**  (which are beside 1 on a QWERTY keyboard  <kbd>  ` </kbd> <kbd>  1 </kbd> </kbd> <kbd>  2 </kbd>  ) - which looks like (*See the footnote for other keyboard layouts* <sup>[1](#myfootnote1)</sup>):
 
     ![alt text][image_0]
     
@@ -42,11 +42,11 @@
 
   1. Type three backticks.
 
-  2. Press Shift + Enter at the same time (to move to a new line).
+  2. Press <kbd>Shift</kbd> + <kbd>Enter</kbd> at the same time (to move to a new line).
 
   3. Copy and paste your code directly into the window.
 
-  4. Press Shift + Enter at the same time (to move to a new line).
+  4. Press <kbd>Shift</kbd> + <kbd>Enter</kbd> at the same time (to move to a new line).
 
   5. Type three backticks.
 
