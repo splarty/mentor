@@ -1,7 +1,7 @@
 [images]: # (Image References)
 [image_0]: images/backtick-key.jpg "Data Types"
 [image_1]: images/backticks.gif
-[image_2]: menuClick.jpg
+[image_2]: images/pastebin.gif
 [image_3]: responsive.gif
 [image_4]: synchronousQuery.jpg
 
@@ -26,11 +26,11 @@
 <a id='SNIPPETS'></a>
 ## Posting Code in the Chat Window:
 
-- On **separate** lines, **before** and **after** your code, you put three **backticks**  (which are beside 1 on a QWERTY keyboard  <kbd>  ` </kbd> <kbd>  1 </kbd> </kbd> <kbd>  2 </kbd>  ) - which looks like (*See the footnote for other keyboard layouts*<sup>[1](#myfootnote1)</sup>):
+- On **separate** lines, **before** and **after** your code, you put three **backticks**  (which are beside 1 on a QWERTY keyboard  <kbd>  ` </kbd> <kbd>  1 </kbd> </kbd> <kbd>  2 </kbd>  ) - which looks like (*See the footnote for other keyboard layouts* <sup>[1](#myfootnote1)</sup>):
 
     ![alt text][image_0]
     
-- To move to a new line, in the chat window, press <kbd>Shift</kbd> + <kbd>Enter</kbd> at the same time.
+- To move to a new line, in the chat window, use `Shift + Enter` at the same time.
 
 - **Note**: Any spaces on the lines with _`'backticks'`_ will produce very odd formatting.
 
@@ -63,6 +63,11 @@ You can post your code at http://pastebin.com/ - **No Login is required**
 3. Select the appropriate syntax highlighting (type the first few letters of the language).
 
 4. Click *`Create New Paste`* and copy the **URL** and **post that URL in the chat window**
+
+    
+    ![alt text][image_2]
+    
+
 
 *(Note: There are many different external sites that allow you to post code. Feel free to use the service that you prefer).*
 
