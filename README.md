@@ -14,7 +14,7 @@
 <a id='MENTOR'></a>
 ## Classroom Mentor
 
-- The role of a classroom mentor is to answer your questions regarding the courses that you are taking. We enjoy answering questions, so feel free to post your questions in the mentor chat window.
+- The only role of a classroom mentor is to answer your questions regarding the courses that you are taking (we don't have any connection with review or technical support at Udacity). We enjoy answering questions, so feel free to post your questions in the mentor chat window.
 
 - When you post a question or comment, you can expect a reply within 24 hours (i.e. communication isn't *Live*).
 
