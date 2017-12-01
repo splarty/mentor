@@ -14,6 +14,8 @@
 <a id='MENTOR'></a>
 ## Classroom Mentor
 
+- The role of a classroom mentor is to answer your questions regarding the courses that you are taking. We enjoy answering questions, so feel free to post your questions in the mentor chat window.
+
 - When you post a question or comment, you can expect a reply within 24 hours (i.e. communication isn't *Live*).
 
 - So any technical questions that you have will have to be posed in a way that is clear, so that I can answer them directly (i.e. if I need clarification on any parts of your question then they will be difficult to answer, and will lead to a frustrating time lag for you).
