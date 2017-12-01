@@ -14,14 +14,14 @@
 <a id='MENTOR'></a>
 ## Classroom Mentor
 
-- The only role of a classroom mentor is to answer your questions regarding the courses that you are taking (we don't have any connection with review or technical support at Udacity). We enjoy answering questions, so feel free to post your questions in the mentor chat window.
+- The role of a classroom mentor is to answer your questions regarding the courses that you are taking. We enjoy answering questions, so feel free to post your questions in the mentor chat window.
 
-- When you post a question or comment, you can expect a reply within 24 hours (i.e. communication isn't *Live*).
+- When you post a question or comment, you can expect a reply within 24 hours (i.e. communication isn't *Live*, classroom mentorship is not a *chat service*).
 
-- So any quiz or project questions that you have will have to be posed in a way that is clear, so that I can answer them directly (i.e. if I need clarification on any parts of your question then they will be difficult to answer, and will lead to a frustrating time lag for you).
+- So any technical questions that you have will have to be posed in a way that is clear, so that I can answer them directly (i.e. if I need clarification on any parts of your question then they will be difficult to answer, and will lead to a frustrating time lag for you).
 
   - Include a link to the quiz, where relevant.
-  - Include any code (see below), where relevant.
+  - Include any code, where relevant.
 
 - Classroom mentors do not review projects before submission (We can clarify questions that you have about the requirements or review comments but we can't pre-review projects). Once you are happy that you have met the requirements (laid out in the project Rubric), then you are ready to submit your project.
 
