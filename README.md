@@ -8,8 +8,8 @@
 
 ## Contents
 - [Classroom Mentor](#MENTOR)
-- [Posting Code Snippets in the Chat Window](#SNIPPETS)
-- [Posting Code on an External Site](#CODE)
+- [Posting Code in the Chat Window](#SNIPPETS) (for shorter code snippets)
+- [Posting Code on an External Site](#CODE) (for longer segments of code/scripts) 
 
 <a id='MENTOR'></a>
 ## Classroom Mentor
