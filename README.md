@@ -20,7 +20,7 @@
   * These pages are _grouped by_ projects (can be turned off), and
   * they all contain links to the relevant reviews
   
-The only difference between the two notebooks is that the one marked _"PANDAS"_ uses pandas dataframes (which may be handy for analysis). That version is slower (for 300 reviews, the pandas notebook takes about 45 sections, the other takes about 15 seconds).
+The only difference between the two notebooks is that the one marked _"PANDAS"_ uses pandas dataframes (which may be handy for analysis). That version is slower (for 300 reviews, the pandas notebook takes about 45 seconds, the other takes about 15 seconds).
 
 
 _______________
