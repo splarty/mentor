@@ -7,9 +7,23 @@
 
 
 ## Contents
+- [Creating HTML pages for Ratings, with Links to Reviews](#Review)
 - [Classroom Mentor](#MENTOR)
 - [Posting Code in the Chat Window](#SNIPPETS) (for shorter code snippets)
 - [Posting Code on an External Site](#CODE) (for longer segments of code/scripts) 
+
+<a id='Review'></a>
+## Creating HTML pages for Ratings, with Links to Reviews
+
+- The 2 notebooks in this repository have the same output:
+  * HTML pages of: Ratings, Reviews, Your Submissions, and Ratings and Reviews Combined.
+  * These pages are _grouped by_ projects (can be turned off), and
+  * they all contain links to the relevant reviews
+  
+_ The only difference between the two notebooks is that the one marked _"PANDAS"_ uses pandas dataframes (which may be handy for analysis). That version is slower (for 300 reviews, the pandas notebook takes about 45 sections, the other takes about 15 seconds).
+
+
+_______________
 
 <a id='MENTOR'></a>
 ## Classroom Mentor
